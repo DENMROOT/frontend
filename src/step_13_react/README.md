@@ -18,4 +18,7 @@ npm i -D parcel-bundler
 7) Install react
 npm i react react-dom
 
-8) Don't forget to configure steps (scripts) in package.json
+8) Install eslint plugins
+npm i -D babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react 
+
+X) Don't forget to configure steps (scripts) in package.json
