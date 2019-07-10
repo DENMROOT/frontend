@@ -21,6 +21,8 @@ npm i react react-dom
 8) Install eslint plugins
 npm i -D babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 npm i -D eslint-plugin-react-hooks
+npm i @reach/router
+
  
 
 X) Don't forget to configure steps (scripts) in package.json
